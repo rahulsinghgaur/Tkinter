@@ -1,0 +1,6 @@
+Name : Rahul Gaur
+Phone : 8602360442
+Gender : M
+Product : Phone
+Payment Mode : Paytm
+Agree : 1
